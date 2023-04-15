@@ -17,3 +17,9 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
+## Proje 2
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.<br>
+Big-O gösterimini yazınız.
