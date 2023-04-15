@@ -1,6 +1,6 @@
-Proje 1 
+#Proje 1 
 
-[22,27,16,2,18,6] -> Insertion Sort
+###[22,27,16,2,18,6] -> Insertion Sort
 
 = >> START
 
@@ -24,7 +24,7 @@ Proje 1
 
 Average case of this array is 18.
 
-Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to the Selection Sort.
+###Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to the Selection Sort.
 
 = >> START
 
